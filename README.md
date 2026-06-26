@@ -1,8 +1,8 @@
-# 🤖 AI HR Analytics Platform
+# AI HR Analytics Platform
 
 An AI-powered HR Analytics Platform developed using Streamlit, MongoDB, XGBoost, and Sentiment Analysis.
 
-## 📌 Features
+## Features
 
 - Employee Attrition Prediction
 - Prediction Reasoning
@@ -15,7 +15,7 @@ An AI-powered HR Analytics Platform developed using Streamlit, MongoDB, XGBoost,
 - HR Analytics Dashboard
 - MongoDB Integration
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
@@ -26,11 +26,11 @@ An AI-powered HR Analytics Platform developed using Streamlit, MongoDB, XGBoost,
 - Plotly
 - VADER Sentiment Analysis
 
-## 🎯 Project Objective
+## Project Objective
 
 The goal of this project is to help HR departments identify employees at risk of leaving, analyze employee sentiment, assess layoff risks, and improve employee retention using AI and Machine Learning.
 
-## 🚀 Modules
+## Modules
 
 ### Employee Attrition Prediction
 Predicts the probability of employee attrition using XGBoost.
@@ -50,7 +50,7 @@ Displays employee statistics, attrition trends, and retention metrics.
 ### AI HR Assistant
 Answers HR-related questions and explains concepts like Attrition, HR Analytics, Machine Learning, XGBoost, and Employee Retention.
 
-## 📸 Project Screenshots
+## Project Screenshots
 
 ### Dashboard
 ![Dashboard](dashboard.png)
@@ -67,7 +67,7 @@ Answers HR-related questions and explains concepts like Attrition, HR Analytics,
 ### AI HR Assistant Chatbot
 ![Chatbot](chatbot.png)
 
-## 👨‍💻 Developer
+## Developer
 
 Sarvesh Hulavale
 
