@@ -50,6 +50,23 @@ Displays employee statistics, attrition trends, and retention metrics.
 ### AI HR Assistant
 Answers HR-related questions and explains concepts like Attrition, HR Analytics, Machine Learning, XGBoost, and Employee Retention.
 
+## 📸 Project Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Attrition Prediction
+![Attrition Prediction](attrition_prediction.png)
+
+### Layoff Risk Prediction
+![Layoff Risk](layoff.png)
+
+### Work-Life Balance Calculator
+![Work Life Balance](worklife_balance.png)
+
+### AI HR Assistant Chatbot
+![Chatbot](chatbot.png)
+
 ## 👨‍💻 Developer
 
 Sarvesh Hulavale
